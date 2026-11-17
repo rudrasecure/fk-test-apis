@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "vessel_id": "TEST-VESSEL-001",
+  "version": 42,
+  "avcs_week": "2026-47",
+  "created": "2026-11-17T11:50:03Z",
+  "expires": "2026-12-22T11:50:03Z",
+  "files": [
+    {
+      "path": "ENC_ROOT/CATALOG.031",
+      "size": 57,
+      "sha256": "563e5de79e8409ff363ae64c7df61500d0d5c09a21c8af0aec9382e9a5526313"
+    },
+    {
+      "path": "ENC_ROOT/GB/GB100001.000",
+      "size": 2083,
+      "sha256": "8099438c83fd4170514783916c131584886af335d88a35e63848b3ea2da0b730"
+    },
+    {
+      "path": "PERMIT.TXT",
+      "size": 80,
+      "sha256": "6946def7da9a26ec4dd88c9e1b1907c0b7a8534e898988d6f8eeb0e9e09f3c17"
+    }
+  ]
+}
