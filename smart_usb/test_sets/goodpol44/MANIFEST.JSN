@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "vessel_id": "TEST-VESSEL-001",
+  "version": 44,
+  "avcs_week": "2026-47",
+  "created": "2026-11-19T08:45:55Z",
+  "expires": "2026-12-24T08:45:55Z",
+  "files": [
+    {
+      "path": "ENC_ROOT/CATALOG.031",
+      "size": 57,
+      "sha256": "563e5de79e8409ff363ae64c7df61500d0d5c09a21c8af0aec9382e9a5526313"
+    },
+    {
+      "path": "ENC_ROOT/GB/GB100001.000",
+      "size": 2083,
+      "sha256": "8099438c83fd4170514783916c131584886af335d88a35e63848b3ea2da0b730"
+    },
+    {
+      "path": "ENC_ROOT/GB/GB100001.001",
+      "size": 34,
+      "sha256": "13f98fe0ec43d5555fa3ec3102024f9f81107fc3e975d63b3e592c4b93f553f7"
+    },
+    {
+      "path": "PERMIT.TXT",
+      "size": 80,
+      "sha256": "6946def7da9a26ec4dd88c9e1b1907c0b7a8534e898988d6f8eeb0e9e09f3c17"
+    }
+  ],
+  "policy": {
+    "outbox_upload": true,
+    "outbox_max_file_mb": 32,
+    "outbox_max_files": 1
+  }
+}
